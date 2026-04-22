@@ -4,8 +4,8 @@ This repository contains security audit plans, compliance checklists, and IAM po
 
 ## Contents
 
-- [COMPLIANCE_CHECKLIST.md](./COMPLIANCE_CHECKLIST.md) - Security compliance checklist for AWS migration
-- [SECURITY_AUDIT_PLAN.md](./SECURITY_AUDIT_PLAN.md) - Comprehensive security audit plan
+- [COMPLIANCE_CHECKLIST.md](./docs/COMPLIANCE_CHECKLIST.md) - Security compliance checklist for AWS migration
+- [SECURITY_AUDIT_PLAN.md](./docs/SECURITY_AUDIT_PLAN.md) - Comprehensive security audit plan
 
 ## Security Overview
 
